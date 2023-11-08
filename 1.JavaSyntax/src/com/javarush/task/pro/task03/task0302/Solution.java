@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Solution {
     public static void main(String[] args) {
         String militaryCommissar = ", явитесь в военкомат";
-        Scanner console = new Scanner(System.in);
+             Scanner console = new Scanner(System.in);
         String name = console.nextLine();
 
 
